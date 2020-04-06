@@ -8,7 +8,7 @@ public class Test_01_Chrome {
 	public static void main(String[] args) {
 
 		
-		System.setProperty("webdriver.chrome.driver", "//Users//mikepol//selenium-java-3.141.59//chromedriver");
+		System.setProperty("webdriver.chrome.driver", "//Users/Shared//SeleniumWebDriver//chromedriver");
 		
 		WebDriver driver=new ChromeDriver();
 		

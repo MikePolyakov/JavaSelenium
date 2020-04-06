@@ -15,7 +15,7 @@ public class Test_03_find_id_name_linktext {
 	public static void main(String[] args) {
 
 		
-		System.setProperty("webdriver.chrome.driver", "//Users//mikepol//selenium-java-3.141.59//chromedriver");
+		System.setProperty("webdriver.chrome.driver", "//Users/Shared//SeleniumWebDriver//chromedriver");
 		
 		driver.get("http://facebook.com");
 		
