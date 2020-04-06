@@ -6,7 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Test_02_FF {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		System.setProperty("webdriver.gecko.driver", "//Users//mikepol//selenium-java-3.141.59//geckodriver");
 		
 		WebDriver driver=new FirefoxDriver();

@@ -13,7 +13,7 @@ public class Test_05_FF_xpath {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		
 		System.setProperty("webdriver.gecko.driver", "//Users//mikepol//selenium-java-3.141.59//geckodriver");
 			

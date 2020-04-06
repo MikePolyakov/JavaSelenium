@@ -13,7 +13,7 @@ public class Test_06_Chrome_find_xpath {
 	static WebDriver driver=new ChromeDriver();
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		
 		System.setProperty("webdriver.chrome.driver", "//Users//mikepol//selenium-java-3.141.59//chromedriver");
 		
