@@ -15,7 +15,7 @@ public class Test_05_FF_xpath {
 	public static void main(String[] args) {
 
 		
-		System.setProperty("webdriver.gecko.driver", "//Users//mikepol//selenium-java-3.141.59//geckodriver");
+		System.setProperty("webdriver.gecko.driver", "//Users//Shared//SeleniumWebDriver//geckodriver");
 			
 		WebDriver driver=new FirefoxDriver();
 		

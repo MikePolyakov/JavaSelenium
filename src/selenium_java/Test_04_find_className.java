@@ -15,7 +15,7 @@ public class Test_04_find_className {
 	public static void main(String[] args) {
 
 		
-		System.setProperty("webdriver.chrome.driver", "//Users//mikepol//selenium-java-3.141.59//chromedriver");
+		System.setProperty("webdriver.chrome.driver", "//Users//Shared//SeleniumWebDriver//chromedriver");
 		
 		driver.get("http://facebook.com");
 		
